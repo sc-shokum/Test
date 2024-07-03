@@ -1,3 +1,6 @@
 [submodule "sub"]
 	path = sub
 	url = ./sub/
+[submodule "small-test-repo"]
+	path = small-test-repo
+	url = https://github.com/rtyley/small-test-repo.git
